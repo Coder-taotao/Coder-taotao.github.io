@@ -7,7 +7,21 @@ Email: wuyuntao2015@163.com
 * [我的CSDN博客](http://blog.csdn.net/tiansuiwodong)  
  
 
+Company: Huawei
 
+Education: Northeastern University
+
+Honors:
+* The national scholarship 2011
+* First-class Scholarship (more than 4 times)
+* Second-class Scholarship (more than 3 times)
+* Outstanding graduates 2014
+
+English:  CET6 level
+
+Skills:
+* Familiar with C.
+* Familiar with Linux
 
 (未完成，2017.05.24)
 
