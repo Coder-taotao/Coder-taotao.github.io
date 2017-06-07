@@ -23,6 +23,6 @@ Skills:
 * Familiar with C.
 * Familiar with Linux
 
-(未完成，2017.05.24)
+(not finished，2017.06.07)
 
 http://wowubuntu.com/markdown/index.html
