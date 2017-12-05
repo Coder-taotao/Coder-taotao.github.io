@@ -9,7 +9,7 @@ Email: wuyuntao2015@163.com
 
 Company: Huawei
 
-Education: Northeastern University
+Education: Northeastern University, Computer Software Theory Master.
 
 Honors:
 * The national scholarship 2011
@@ -20,9 +20,11 @@ Honors:
 English:  CET6 level
 
 Skills:
-* Familiar with C.
+* Familiar with C/Python.
 * Familiar with Linux
+* Learned about Java and Design pattern
 
-(not finished，2017.06.07)
+
+(not finished，2017.12.05)
 
 http://wowubuntu.com/markdown/index.html
