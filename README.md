@@ -7,7 +7,7 @@ Email: wuyuntao2015@163.com
 * [我的CSDN博客](http://blog.csdn.net/tiansuiwodong)  
  
 
-Company: Huawei
+Company: 2017-2021 Huawei, 2021-~ Tencent
 
 Education: Northeastern University, Computer Software Theory Master.
 
@@ -20,11 +20,11 @@ Honors:
 English:  CET6 level
 
 Skills:
-* Familiar with C/Python.
+* Familiar with Java/Python/Scala.
 * Familiar with Linux
 * Learned about Java and Design pattern
+* Familiar with Flink
+* Familiar with ClickHouse
 
 
-(not finished，2017.12.05)
-
-http://wowubuntu.com/markdown/index.html
+(not finished，2021.08.13)
