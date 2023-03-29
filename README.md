@@ -2,12 +2,15 @@
 中文版
 
 Email: wuyuntao2015@163.com
-
-* [我的博客园](http://www.cnblogs.com/wuyuntao/)
+* [腾讯云开发者](https://cloud.tencent.com/developer/user/8718387)
 * [我的CSDN博客](http://blog.csdn.net/tiansuiwodong)  
+* [我的博客园](http://www.cnblogs.com/wuyuntao/)
  
 
-Company: 2017-2021 Huawei, 2021-~ Tencent
+Company: 
+2017-2021, Huawei
+2021-2022, Tencent
+2023- ---, JD
 
 Education: Northeastern University, Computer Software Theory Master.
 
@@ -27,4 +30,4 @@ Skills:
 * Familiar with ClickHouse
 
 
-(not finished，2021.08.13)
+(not finished，2023.03.29)
